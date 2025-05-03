@@ -1,0 +1,4 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Estruturas de Controle\Estruturas de Controle\obj\Debug\net8.0\Estruturas de Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Estruturas de Controle\Estruturas de Controle\obj\Debug\net8.0\Estruturas de Controle.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Estruturas de Controle\Estruturas de Controle\obj\Debug\net8.0\Estruturas de Controle.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Estruturas de Controle\Estruturas de Controle\obj\Debug\net8.0\Estruturas de Controle.csproj.CoreCompileInputs.cache

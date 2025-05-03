@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-Condicional\\Ex-05-troco-verificado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A027105A-FBD1-4ADA-B4AF-4FCF1CE93140}|Ex-05-troco-verificado\\Ex-05-troco-verificado.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\logica-de-programacao\\exercicios\\estrutura-condicional\\ex-05-troco-verificado\\ex-05-troco-verificado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A027105A-FBD1-4ADA-B4AF-4FCF1CE93140}|Ex-05-troco-verificado\\Ex-05-troco-verificado.csproj|solutionrelative:ex-05-troco-verificado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-Condicional\\Ex-05-troco-verificado\\Ex-05-troco-verificado\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-05-troco-verificado\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-Condicional\\Ex-05-troco-verificado\\Ex-05-troco-verificado\\Program.cs*",
+              "RelativeToolTip": "Ex-05-troco-verificado\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:49:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

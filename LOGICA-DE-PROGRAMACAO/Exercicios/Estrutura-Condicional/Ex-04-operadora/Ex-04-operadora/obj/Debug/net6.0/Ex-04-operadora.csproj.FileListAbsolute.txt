@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\bin\Debug\net6.0\Ex-04-operadora.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\bin\Debug\net6.0\Ex-04-operadora.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\bin\Debug\net6.0\Ex-04-operadora.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\bin\Debug\net6.0\Ex-04-operadora.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\bin\Debug\net6.0\Ex-04-operadora.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\refint\Ex-04-operadora.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\Ex-04-operadora.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-04-operadora\Ex-04-operadora\obj\Debug\net6.0\ref\Ex-04-operadora.dll

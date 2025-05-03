@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\bin\Debug\net6.0\Ex-08-medidas.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\bin\Debug\net6.0\Ex-08-medidas.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\bin\Debug\net6.0\Ex-08-medidas.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\bin\Debug\net6.0\Ex-08-medidas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\bin\Debug\net6.0\Ex-08-medidas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\refint\Ex-08-medidas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\Ex-08-medidas.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-08-medidas\Ex-08-medidas\obj\Debug\net6.0\ref\Ex-08-medidas.dll

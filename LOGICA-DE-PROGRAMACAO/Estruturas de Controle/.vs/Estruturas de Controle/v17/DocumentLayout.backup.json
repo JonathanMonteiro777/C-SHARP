@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Estruturas de Controle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F346E-9723-4515-8A16-09EDCF31D2B7}|Estruturas de Controle\\Estruturas de Controle.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\estruturas de controle\\estruturas de controle\\loopwhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F346E-9723-4515-8A16-09EDCF31D2B7}|Estruturas de Controle\\Estruturas de Controle.csproj|solutionrelative:estruturas de controle\\loopwhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F346E-9723-4515-8A16-09EDCF31D2B7}|Estruturas de Controle\\Estruturas de Controle.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\estruturas de controle\\estruturas de controle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F346E-9723-4515-8A16-09EDCF31D2B7}|Estruturas de Controle\\Estruturas de Controle.csproj|solutionrelative:estruturas de controle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loopWhile.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Estruturas de Controle\\Estruturas de Controle\\loopWhile.cs",
+              "RelativeDocumentMoniker": "Estruturas de Controle\\loopWhile.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Estruturas de Controle\\Estruturas de Controle\\loopWhile.cs",
+              "RelativeToolTip": "Estruturas de Controle\\loopWhile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:40:18.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Estruturas de Controle\\Estruturas de Controle\\Program.cs",
+              "RelativeDocumentMoniker": "Estruturas de Controle\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Estruturas de Controle\\Estruturas de Controle\\Program.cs",
+              "RelativeToolTip": "Estruturas de Controle\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:27:26.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

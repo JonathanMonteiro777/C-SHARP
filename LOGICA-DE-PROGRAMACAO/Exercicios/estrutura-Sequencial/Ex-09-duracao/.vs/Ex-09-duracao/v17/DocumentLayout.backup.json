@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-09-duracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377E8B6C-ADE1-4BEE-A911-1DE87D14B788}|Ex-09-duracao\\Ex-09-duracao.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\exercicios\\estrutura-sequencial\\ex-09-duracao\\ex-09-duracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E8B6C-ADE1-4BEE-A911-1DE87D14B788}|Ex-09-duracao\\Ex-09-duracao.csproj|solutionrelative:ex-09-duracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 105,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-09-duracao\\Ex-09-duracao\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-09-duracao\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-09-duracao\\Ex-09-duracao\\Program.cs",
+              "RelativeToolTip": "Ex-09-duracao\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:34:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

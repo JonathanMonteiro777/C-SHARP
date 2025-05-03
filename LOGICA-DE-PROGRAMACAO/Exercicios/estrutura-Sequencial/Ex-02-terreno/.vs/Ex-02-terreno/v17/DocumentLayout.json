@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-02-terreno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC25BD14-9E61-4DD1-BCD2-59D67F441D7D}|Ex-02-terreno\\Ex-02-terreno.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\exercicios\\estrutura-sequencial\\ex-02-terreno\\ex-02-terreno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC25BD14-9E61-4DD1-BCD2-59D67F441D7D}|Ex-02-terreno\\Ex-02-terreno.csproj|solutionrelative:ex-02-terreno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 105,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-02-terreno\\Ex-02-terreno\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-02-terreno\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-02-terreno\\Ex-02-terreno\\Program.cs",
+              "RelativeToolTip": "Ex-02-terreno\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:54:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

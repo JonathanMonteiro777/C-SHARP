@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\bin\Debug\net6.0\Ex-04-troco.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\bin\Debug\net6.0\Ex-04-troco.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\bin\Debug\net6.0\Ex-04-troco.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\bin\Debug\net6.0\Ex-04-troco.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\bin\Debug\net6.0\Ex-04-troco.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\refint\Ex-04-troco.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\Ex-04-troco.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-04-troco\Ex-04-troco\obj\Debug\net6.0\ref\Ex-04-troco.dll

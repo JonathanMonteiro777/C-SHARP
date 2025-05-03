@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex-09-duracao/1.0.0": {
+        "runtime": {
+          "Ex-09-duracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex-09-duracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

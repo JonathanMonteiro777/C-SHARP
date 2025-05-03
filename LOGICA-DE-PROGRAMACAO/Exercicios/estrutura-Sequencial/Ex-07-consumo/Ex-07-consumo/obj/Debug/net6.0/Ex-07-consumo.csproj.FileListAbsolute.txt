@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\bin\Debug\net6.0\Ex-07-consumo.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\bin\Debug\net6.0\Ex-07-consumo.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\bin\Debug\net6.0\Ex-07-consumo.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\bin\Debug\net6.0\Ex-07-consumo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\bin\Debug\net6.0\Ex-07-consumo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\refint\Ex-07-consumo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\Ex-07-consumo.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-07-consumo\Ex-07-consumo\obj\Debug\net6.0\ref\Ex-07-consumo.dll

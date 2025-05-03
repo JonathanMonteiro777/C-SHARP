@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\Ex-01-idades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8D24F1-83BE-4218-9664-E3FC5179D688}|Ex-01-idades\\Ex-01-idades.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\exercicios\\ex-01-idades\\ex-01-idades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8D24F1-83BE-4218-9664-E3FC5179D688}|Ex-01-idades\\Ex-01-idades.csproj|solutionrelative:ex-01-idades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\Ex-01-idades\\Ex-01-idades\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-01-idades\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\Ex-01-idades\\Ex-01-idades\\Program.cs",
+              "RelativeToolTip": "Ex-01-idades\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:23:40.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\bin\Debug\net6.0\Ex-03-soma.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\bin\Debug\net6.0\Ex-03-soma.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\bin\Debug\net6.0\Ex-03-soma.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\bin\Debug\net6.0\Ex-03-soma.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\bin\Debug\net6.0\Ex-03-soma.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\refint\Ex-03-soma.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\Ex-03-soma.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-03-soma\Ex-03-soma\obj\Debug\net6.0\ref\Ex-03-soma.dll

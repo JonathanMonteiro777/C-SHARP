@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\bin\Debug\net6.0\Ex-00-retangulo.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\bin\Debug\net6.0\Ex-00-retangulo.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\bin\Debug\net6.0\Ex-00-retangulo.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\bin\Debug\net6.0\Ex-00-retangulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\bin\Debug\net6.0\Ex-00-retangulo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\refint\Ex-00-retangulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\Ex-00-retangulo.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-00-retangulo\Ex-00-retangulo\obj\Debug\net6.0\ref\Ex-00-retangulo.dll

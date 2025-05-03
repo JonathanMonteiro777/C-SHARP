@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\bin\Debug\net6.0\Ex-09-duracao.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\bin\Debug\net6.0\Ex-09-duracao.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\bin\Debug\net6.0\Ex-09-duracao.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\bin\Debug\net6.0\Ex-09-duracao.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\bin\Debug\net6.0\Ex-09-duracao.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\refint\Ex-09-duracao.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\Ex-09-duracao.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-09-duracao\Ex-09-duracao\obj\Debug\net6.0\ref\Ex-09-duracao.dll

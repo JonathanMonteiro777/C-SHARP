@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\bin\Debug\net6.0\Ex-01-notas.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\bin\Debug\net6.0\Ex-01-notas.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\bin\Debug\net6.0\Ex-01-notas.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\bin\Debug\net6.0\Ex-01-notas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\bin\Debug\net6.0\Ex-01-notas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\refint\Ex-01-notas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\Ex-01-notas.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-01-notas\Ex-01-notas\obj\Debug\net6.0\ref\Ex-01-notas.dll

@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\bin\Debug\net6.0\Ex-06-glicose.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\bin\Debug\net6.0\Ex-06-glicose.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\bin\Debug\net6.0\Ex-06-glicose.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\bin\Debug\net6.0\Ex-06-glicose.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\bin\Debug\net6.0\Ex-06-glicose.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\refint\Ex-06-glicose.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\Ex-06-glicose.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-06-glicose\Ex-06-glicose\obj\Debug\net6.0\ref\Ex-06-glicose.dll

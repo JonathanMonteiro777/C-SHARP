@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-04-troco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15202B76-301C-4703-93FB-EF62DD33331F}|Ex-04-troco\\Ex-04-troco.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\exercicios\\estrutura-sequencial\\ex-04-troco\\ex-04-troco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202B76-301C-4703-93FB-EF62DD33331F}|Ex-04-troco\\Ex-04-troco.csproj|solutionrelative:ex-04-troco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 105,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-04-troco\\Ex-04-troco\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-04-troco\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Exercicios\\estrutura-Sequencial\\Ex-04-troco\\Ex-04-troco\\Program.cs",
+              "RelativeToolTip": "Ex-04-troco\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:15:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

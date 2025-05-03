@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\bin\Debug\net6.0\Ex-01-idades.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\bin\Debug\net6.0\Ex-01-idades.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\bin\Debug\net6.0\Ex-01-idades.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\bin\Debug\net6.0\Ex-01-idades.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\bin\Debug\net6.0\Ex-01-idades.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\refint\Ex-01-idades.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\Ex-01-idades.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\Ex-01-idades\Ex-01-idades\obj\Debug\net6.0\ref\Ex-01-idades.dll

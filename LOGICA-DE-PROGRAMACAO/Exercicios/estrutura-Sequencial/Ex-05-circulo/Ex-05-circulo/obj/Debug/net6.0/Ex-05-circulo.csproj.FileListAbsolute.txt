@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\bin\Debug\net6.0\Ex-05-circulo.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\bin\Debug\net6.0\Ex-05-circulo.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\bin\Debug\net6.0\Ex-05-circulo.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\bin\Debug\net6.0\Ex-05-circulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\bin\Debug\net6.0\Ex-05-circulo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\refint\Ex-05-circulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\Ex-05-circulo.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-05-circulo\Ex-05-circulo\obj\Debug\net6.0\ref\Ex-05-circulo.dll

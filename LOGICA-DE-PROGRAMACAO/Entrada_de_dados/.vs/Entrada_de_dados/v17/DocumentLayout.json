@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Entrada_de_dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E8B787-875F-4392-83A4-FAA0AD570864}|Entrada_de_dados\\Entrada_de_dados.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c_sharp\\entrada_de_dados\\entrada_de_dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E8B787-875F-4392-83A4-FAA0AD570864}|Entrada_de_dados\\Entrada_de_dados.csproj|solutionrelative:entrada_de_dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 141,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Entrada_de_dados\\Entrada_de_dados\\Program.cs",
+              "RelativeDocumentMoniker": "Entrada_de_dados\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C_SHARP\\Entrada_de_dados\\Entrada_de_dados\\Program.cs",
+              "RelativeToolTip": "Entrada_de_dados\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:44:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

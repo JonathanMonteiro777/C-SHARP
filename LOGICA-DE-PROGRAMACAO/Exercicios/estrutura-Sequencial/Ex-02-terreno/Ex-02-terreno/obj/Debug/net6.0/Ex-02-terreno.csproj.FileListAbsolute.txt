@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\bin\Debug\net6.0\Ex-02-terreno.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\bin\Debug\net6.0\Ex-02-terreno.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\bin\Debug\net6.0\Ex-02-terreno.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\bin\Debug\net6.0\Ex-02-terreno.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\bin\Debug\net6.0\Ex-02-terreno.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\refint\Ex-02-terreno.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\Ex-02-terreno.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C_SHARP\Exercicios\estrutura-Sequencial\Ex-02-terreno\Ex-02-terreno\obj\Debug\net6.0\ref\Ex-02-terreno.dll
