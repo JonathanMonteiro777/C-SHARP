@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\bin\Debug\net6.0\Ex-11-aumento.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\bin\Debug\net6.0\Ex-11-aumento.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\bin\Debug\net6.0\Ex-11-aumento.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\bin\Debug\net6.0\Ex-11-aumento.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\bin\Debug\net6.0\Ex-11-aumento.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\refint\Ex-11-aumento.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\Ex-11-aumento.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-11-aumento\Ex-11-aumento\obj\Debug\net6.0\ref\Ex-11-aumento.dll

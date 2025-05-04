@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-Condicional\\Ex-09-lanchonete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E0BAFF-F5BB-4A3E-87F8-36C0B1A02AC3}|Ex-09-lanchonete\\Ex-09-lanchonete.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\logica-de-programacao\\exercicios\\estrutura-condicional\\ex-09-lanchonete\\ex-09-lanchonete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E0BAFF-F5BB-4A3E-87F8-36C0B1A02AC3}|Ex-09-lanchonete\\Ex-09-lanchonete.csproj|solutionrelative:ex-09-lanchonete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-Condicional\\Ex-09-lanchonete\\Ex-09-lanchonete\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-09-lanchonete\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-Condicional\\Ex-09-lanchonete\\Ex-09-lanchonete\\Program.cs",
+              "RelativeToolTip": "Ex-09-lanchonete\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:26:23.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

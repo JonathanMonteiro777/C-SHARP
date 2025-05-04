@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\bin\Debug\net6.0\Ex-10-multiplos.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\bin\Debug\net6.0\Ex-10-multiplos.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\bin\Debug\net6.0\Ex-10-multiplos.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\bin\Debug\net6.0\Ex-10-multiplos.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\bin\Debug\net6.0\Ex-10-multiplos.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\refint\Ex-10-multiplos.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\Ex-10-multiplos.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-Condicional\Ex-10-multiplos\Ex-10-multiplos\obj\Debug\net6.0\ref\Ex-10-multiplos.dll
