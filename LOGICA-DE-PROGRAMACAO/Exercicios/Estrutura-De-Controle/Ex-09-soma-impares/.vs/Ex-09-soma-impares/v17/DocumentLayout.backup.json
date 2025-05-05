@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-09-soma-impares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{102340D4-69A6-41C7-B3AD-B989E7C3BACF}|Ex-09-soma-impares\\Ex-09-soma-impares.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\logica-de-programacao\\exercicios\\estrutura-de-controle\\ex-09-soma-impares\\ex-09-soma-impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102340D4-69A6-41C7-B3AD-B989E7C3BACF}|Ex-09-soma-impares\\Ex-09-soma-impares.csproj|solutionrelative:ex-09-soma-impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-09-soma-impares\\Ex-09-soma-impares\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-09-soma-impares\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-09-soma-impares\\Ex-09-soma-impares\\Program.cs",
+              "RelativeToolTip": "Ex-09-soma-impares\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:13:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

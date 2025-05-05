@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\bin\Debug\net6.0\Ex-01-crescente.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\bin\Debug\net6.0\Ex-01-crescente.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\bin\Debug\net6.0\Ex-01-crescente.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\bin\Debug\net6.0\Ex-01-crescente.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\bin\Debug\net6.0\Ex-01-crescente.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\refint\Ex-01-crescente.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\Ex-01-crescente.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-01-crescente\Ex-01-crescente\obj\Debug\net6.0\ref\Ex-01-crescente.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-03-senha-fixa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD7B68F-6E20-4849-85A8-C27E05C81FE3}|Ex-03-senha-fixa\\Ex-03-senha-fixa.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\logica-de-programacao\\exercicios\\estrutura-de-controle\\ex-03-senha-fixa\\ex-03-senha-fixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD7B68F-6E20-4849-85A8-C27E05C81FE3}|Ex-03-senha-fixa\\Ex-03-senha-fixa.csproj|solutionrelative:ex-03-senha-fixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-03-senha-fixa\\Ex-03-senha-fixa\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-03-senha-fixa\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-03-senha-fixa\\Ex-03-senha-fixa\\Program.cs*",
+              "RelativeToolTip": "Ex-03-senha-fixa\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:01:45.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-08-tabuada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA5F70D-0C33-4637-A210-141A7740427C}|Ex-08-tabuada\\Ex-08-tabuada.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\logica-de-programacao\\exercicios\\estrutura-de-controle\\ex-08-tabuada\\ex-08-tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA5F70D-0C33-4637-A210-141A7740427C}|Ex-08-tabuada\\Ex-08-tabuada.csproj|solutionrelative:ex-08-tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-08-tabuada\\Ex-08-tabuada\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-08-tabuada\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Estrutura-De-Controle\\Ex-08-tabuada\\Ex-08-tabuada\\Program.cs",
+              "RelativeToolTip": "Ex-08-tabuada\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:04:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

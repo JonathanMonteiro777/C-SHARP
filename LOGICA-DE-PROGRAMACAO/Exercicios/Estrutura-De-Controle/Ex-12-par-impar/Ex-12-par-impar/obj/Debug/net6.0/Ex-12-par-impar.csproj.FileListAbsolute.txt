@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\bin\Debug\net6.0\Ex-12-par-impar.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\bin\Debug\net6.0\Ex-12-par-impar.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\bin\Debug\net6.0\Ex-12-par-impar.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\bin\Debug\net6.0\Ex-12-par-impar.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\bin\Debug\net6.0\Ex-12-par-impar.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\refint\Ex-12-par-impar.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\Ex-12-par-impar.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-12-par-impar\Ex-12-par-impar\obj\Debug\net6.0\ref\Ex-12-par-impar.dll

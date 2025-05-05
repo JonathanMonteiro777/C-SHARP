@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\bin\Debug\net6.0\Ex-08-tabuada.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\bin\Debug\net6.0\Ex-08-tabuada.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\bin\Debug\net6.0\Ex-08-tabuada.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\bin\Debug\net6.0\Ex-08-tabuada.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\bin\Debug\net6.0\Ex-08-tabuada.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\refint\Ex-08-tabuada.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\Ex-08-tabuada.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-08-tabuada\Ex-08-tabuada\obj\Debug\net6.0\ref\Ex-08-tabuada.dll

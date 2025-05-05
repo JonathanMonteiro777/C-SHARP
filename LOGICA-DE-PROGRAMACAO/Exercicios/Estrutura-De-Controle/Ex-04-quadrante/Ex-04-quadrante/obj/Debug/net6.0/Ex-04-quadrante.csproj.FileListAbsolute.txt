@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\bin\Debug\net6.0\Ex-04-quadrante.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\bin\Debug\net6.0\Ex-04-quadrante.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\bin\Debug\net6.0\Ex-04-quadrante.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\bin\Debug\net6.0\Ex-04-quadrante.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\bin\Debug\net6.0\Ex-04-quadrante.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\refint\Ex-04-quadrante.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\Ex-04-quadrante.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-04-quadrante\Ex-04-quadrante\obj\Debug\net6.0\ref\Ex-04-quadrante.dll

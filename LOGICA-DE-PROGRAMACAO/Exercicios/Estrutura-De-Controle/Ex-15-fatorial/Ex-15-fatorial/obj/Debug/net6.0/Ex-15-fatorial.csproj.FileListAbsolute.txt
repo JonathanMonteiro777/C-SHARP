@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\bin\Debug\net6.0\Ex-15-fatorial.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\bin\Debug\net6.0\Ex-15-fatorial.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\bin\Debug\net6.0\Ex-15-fatorial.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\bin\Debug\net6.0\Ex-15-fatorial.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\bin\Debug\net6.0\Ex-15-fatorial.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\refint\Ex-15-fatorial.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\Ex-15-fatorial.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Estrutura-De-Controle\Ex-15-fatorial\Ex-15-fatorial\obj\Debug\net6.0\ref\Ex-15-fatorial.dll
