@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\bin\Debug\net6.0\Ex-07-abaixo-da-media.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\bin\Debug\net6.0\Ex-07-abaixo-da-media.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\bin\Debug\net6.0\Ex-07-abaixo-da-media.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\bin\Debug\net6.0\Ex-07-abaixo-da-media.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\bin\Debug\net6.0\Ex-07-abaixo-da-media.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\refint\Ex-07-abaixo-da-media.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\Ex-07-abaixo-da-media.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-07-abaixo-da-media\Ex-07-abaixo-da-media\obj\Debug\net6.0\ref\Ex-07-abaixo-da-media.dll

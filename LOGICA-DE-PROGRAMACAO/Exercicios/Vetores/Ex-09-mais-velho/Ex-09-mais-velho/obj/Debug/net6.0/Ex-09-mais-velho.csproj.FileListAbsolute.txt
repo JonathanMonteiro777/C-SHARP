@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\bin\Debug\net6.0\Ex-09-mais-velho.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\bin\Debug\net6.0\Ex-09-mais-velho.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\bin\Debug\net6.0\Ex-09-mais-velho.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\bin\Debug\net6.0\Ex-09-mais-velho.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\bin\Debug\net6.0\Ex-09-mais-velho.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\refint\Ex-09-mais-velho.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\Ex-09-mais-velho.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-09-mais-velho\Ex-09-mais-velho\obj\Debug\net6.0\ref\Ex-09-mais-velho.dll

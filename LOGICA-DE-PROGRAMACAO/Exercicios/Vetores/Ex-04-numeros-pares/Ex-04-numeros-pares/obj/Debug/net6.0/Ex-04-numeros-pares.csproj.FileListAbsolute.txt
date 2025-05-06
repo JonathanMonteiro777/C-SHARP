@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\bin\Debug\net6.0\Ex-04-numeros-pares.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\bin\Debug\net6.0\Ex-04-numeros-pares.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\bin\Debug\net6.0\Ex-04-numeros-pares.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\bin\Debug\net6.0\Ex-04-numeros-pares.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\bin\Debug\net6.0\Ex-04-numeros-pares.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\refint\Ex-04-numeros-pares.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\Ex-04-numeros-pares.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-04-numeros-pares\Ex-04-numeros-pares\obj\Debug\net6.0\ref\Ex-04-numeros-pares.dll
