@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\bin\Debug\net6.0\Ex-12-comerciante.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\bin\Debug\net6.0\Ex-12-comerciante.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\bin\Debug\net6.0\Ex-12-comerciante.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\bin\Debug\net6.0\Ex-12-comerciante.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\bin\Debug\net6.0\Ex-12-comerciante.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\refint\Ex-12-comerciante.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\Ex-12-comerciante.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-12-comerciante\Ex-12-comerciante\obj\Debug\net6.0\ref\Ex-12-comerciante.dll

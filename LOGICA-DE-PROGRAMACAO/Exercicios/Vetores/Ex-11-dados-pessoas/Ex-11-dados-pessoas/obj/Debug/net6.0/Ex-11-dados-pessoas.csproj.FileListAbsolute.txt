@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\bin\Debug\net6.0\Ex-11-dados-pessoas.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\bin\Debug\net6.0\Ex-11-dados-pessoas.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\bin\Debug\net6.0\Ex-11-dados-pessoas.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\bin\Debug\net6.0\Ex-11-dados-pessoas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\bin\Debug\net6.0\Ex-11-dados-pessoas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\refint\Ex-11-dados-pessoas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\Ex-11-dados-pessoas.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-11-dados-pessoas\Ex-11-dados-pessoas\obj\Debug\net6.0\ref\Ex-11-dados-pessoas.dll
