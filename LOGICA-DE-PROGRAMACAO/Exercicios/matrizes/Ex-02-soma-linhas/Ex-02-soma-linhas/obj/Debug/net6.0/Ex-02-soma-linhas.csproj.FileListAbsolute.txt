@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\bin\Debug\net6.0\Ex-02-soma-linhas.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\bin\Debug\net6.0\Ex-02-soma-linhas.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\bin\Debug\net6.0\Ex-02-soma-linhas.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\bin\Debug\net6.0\Ex-02-soma-linhas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\bin\Debug\net6.0\Ex-02-soma-linhas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\refint\Ex-02-soma-linhas.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\Ex-02-soma-linhas.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\Vetores\Ex-02-soma-linhas\Ex-02-soma-linhas\obj\Debug\net6.0\ref\Ex-02-soma-linhas.dll

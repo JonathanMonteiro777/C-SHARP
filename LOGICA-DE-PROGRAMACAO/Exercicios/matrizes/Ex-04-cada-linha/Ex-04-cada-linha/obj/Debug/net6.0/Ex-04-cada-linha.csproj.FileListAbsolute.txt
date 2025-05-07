@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\bin\Debug\net6.0\Ex-04-cada-linha.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\bin\Debug\net6.0\Ex-04-cada-linha.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\bin\Debug\net6.0\Ex-04-cada-linha.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\bin\Debug\net6.0\Ex-04-cada-linha.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\bin\Debug\net6.0\Ex-04-cada-linha.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\refint\Ex-04-cada-linha.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\Ex-04-cada-linha.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-04-cada-linha\Ex-04-cada-linha\obj\Debug\net6.0\ref\Ex-04-cada-linha.dll

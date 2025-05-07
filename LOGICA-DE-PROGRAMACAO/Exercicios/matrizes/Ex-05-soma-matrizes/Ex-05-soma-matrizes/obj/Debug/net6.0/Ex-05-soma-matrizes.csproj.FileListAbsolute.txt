@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\bin\Debug\net6.0\Ex-05-soma-matrizes.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\bin\Debug\net6.0\Ex-05-soma-matrizes.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\bin\Debug\net6.0\Ex-05-soma-matrizes.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\bin\Debug\net6.0\Ex-05-soma-matrizes.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\bin\Debug\net6.0\Ex-05-soma-matrizes.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\refint\Ex-05-soma-matrizes.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\Ex-05-soma-matrizes.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-05-soma-matrizes\Ex-05-soma-matrizes\obj\Debug\net6.0\ref\Ex-05-soma-matrizes.dll

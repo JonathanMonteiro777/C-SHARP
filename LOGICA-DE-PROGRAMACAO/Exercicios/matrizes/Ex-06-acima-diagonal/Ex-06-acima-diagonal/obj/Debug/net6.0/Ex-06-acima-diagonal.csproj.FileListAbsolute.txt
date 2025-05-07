@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\bin\Debug\net6.0\Ex-06-acima-diagonal.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\bin\Debug\net6.0\Ex-06-acima-diagonal.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\bin\Debug\net6.0\Ex-06-acima-diagonal.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\bin\Debug\net6.0\Ex-06-acima-diagonal.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\bin\Debug\net6.0\Ex-06-acima-diagonal.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\refint\Ex-06-acima-diagonal.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\Ex-06-acima-diagonal.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\LOGICA-DE-PROGRAMACAO\Exercicios\matrizes\Ex-06-acima-diagonal\Ex-06-acima-diagonal\obj\Debug\net6.0\ref\Ex-06-acima-diagonal.dll

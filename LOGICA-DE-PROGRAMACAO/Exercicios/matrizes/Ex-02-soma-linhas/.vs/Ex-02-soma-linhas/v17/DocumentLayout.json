@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Vetores\\Ex-02-soma-linhas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3193227-CAE5-46F8-ABA9-F6E9BD52CA8C}|Ex-02-soma-linhas\\Ex-02-soma-linhas.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\logica-de-programacao\\exercicios\\vetores\\ex-02-soma-linhas\\ex-02-soma-linhas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3193227-CAE5-46F8-ABA9-F6E9BD52CA8C}|Ex-02-soma-linhas\\Ex-02-soma-linhas.csproj|solutionrelative:ex-02-soma-linhas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Vetores\\Ex-02-soma-linhas\\Ex-02-soma-linhas\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-02-soma-linhas\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\LOGICA-DE-PROGRAMACAO\\Exercicios\\Vetores\\Ex-02-soma-linhas\\Ex-02-soma-linhas\\Program.cs",
+              "RelativeToolTip": "Ex-02-soma-linhas\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:44:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
