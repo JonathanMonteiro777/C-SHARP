@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\bin\Debug\net6.0\Ex-03-retangulo.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\bin\Debug\net6.0\Ex-03-retangulo.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\bin\Debug\net6.0\Ex-03-retangulo.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\bin\Debug\net6.0\Ex-03-retangulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\bin\Debug\net6.0\Ex-03-retangulo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\refint\Ex-03-retangulo.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\Ex-03-retangulo.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-03-retangulo\Ex-03-retangulo\obj\Debug\net6.0\ref\Ex-03-retangulo.dll

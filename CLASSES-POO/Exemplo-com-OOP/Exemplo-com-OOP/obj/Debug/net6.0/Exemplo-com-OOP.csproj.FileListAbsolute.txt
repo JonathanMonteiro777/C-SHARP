@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\bin\Debug\net6.0\Exemplo-com-OOP.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\bin\Debug\net6.0\Exemplo-com-OOP.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\bin\Debug\net6.0\Exemplo-com-OOP.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\bin\Debug\net6.0\Exemplo-com-OOP.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\bin\Debug\net6.0\Exemplo-com-OOP.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\refint\Exemplo-com-OOP.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\Exemplo-com-OOP.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Exemplo-com-OOP\Exemplo-com-OOP\obj\Debug\net6.0\ref\Exemplo-com-OOP.dll

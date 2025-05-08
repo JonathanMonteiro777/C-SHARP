@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Segundo-exemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0886B87-6153-4E4E-9DF5-B1B7397E10E2}|Segundo-exemplo\\Segundo-exemplo.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\segundo-exemplo\\segundo-exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0886B87-6153-4E4E-9DF5-B1B7397E10E2}|Segundo-exemplo\\Segundo-exemplo.csproj|solutionrelative:segundo-exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0886B87-6153-4E4E-9DF5-B1B7397E10E2}|Segundo-exemplo\\Segundo-exemplo.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\segundo-exemplo\\segundo-exemplo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0886B87-6153-4E4E-9DF5-B1B7397E10E2}|Segundo-exemplo\\Segundo-exemplo.csproj|solutionrelative:segundo-exemplo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Segundo-exemplo\\Segundo-exemplo\\Produto.cs",
+              "RelativeDocumentMoniker": "Segundo-exemplo\\Produto.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Segundo-exemplo\\Segundo-exemplo\\Produto.cs",
+              "RelativeToolTip": "Segundo-exemplo\\Produto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:41:21.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Segundo-exemplo\\Segundo-exemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Segundo-exemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Segundo-exemplo\\Segundo-exemplo\\Program.cs",
+              "RelativeToolTip": "Segundo-exemplo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:39:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

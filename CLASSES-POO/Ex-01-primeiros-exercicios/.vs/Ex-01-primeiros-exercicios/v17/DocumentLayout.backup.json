@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-01-primeiros-exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC916A7-643B-4FE0-9669-87D0323AF2AD}|Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-01-primeiros-exercicios\\ex-01-primeiros-exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC916A7-643B-4FE0-9669-87D0323AF2AD}|Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios.csproj|solutionrelative:ex-01-primeiros-exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC916A7-643B-4FE0-9669-87D0323AF2AD}|Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-01-primeiros-exercicios\\ex-01-primeiros-exercicios\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC916A7-643B-4FE0-9669-87D0323AF2AD}|Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios.csproj|solutionrelative:ex-01-primeiros-exercicios\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Ex-01-primeiros-exercicios\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios\\Pessoa.cs",
+              "RelativeToolTip": "Ex-01-primeiros-exercicios\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:52:48.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-01-primeiros-exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-01-primeiros-exercicios\\Ex-01-primeiros-exercicios\\Program.cs*",
+              "RelativeToolTip": "Ex-01-primeiros-exercicios\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:50:43.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

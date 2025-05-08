@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\bin\Debug\net6.0\Ex-02-primeiros-exercicios.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\bin\Debug\net6.0\Ex-02-primeiros-exercicios.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\bin\Debug\net6.0\Ex-02-primeiros-exercicios.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\bin\Debug\net6.0\Ex-02-primeiros-exercicios.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\bin\Debug\net6.0\Ex-02-primeiros-exercicios.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\refint\Ex-02-primeiros-exercicios.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\Ex-02-primeiros-exercicios.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-02-primeiros-exercicios\Ex-02-primeiros-exercicios\obj\Debug\net6.0\ref\Ex-02-primeiros-exercicios.dll

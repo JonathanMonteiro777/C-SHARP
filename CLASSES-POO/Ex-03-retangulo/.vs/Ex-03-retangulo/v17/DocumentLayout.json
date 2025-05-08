@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-03-retangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1869CD2E-BF42-4520-A222-29E099830D66}|Ex-03-retangulo\\Ex-03-retangulo.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-03-retangulo\\ex-03-retangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1869CD2E-BF42-4520-A222-29E099830D66}|Ex-03-retangulo\\Ex-03-retangulo.csproj|solutionrelative:ex-03-retangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1869CD2E-BF42-4520-A222-29E099830D66}|Ex-03-retangulo\\Ex-03-retangulo.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-03-retangulo\\ex-03-retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1869CD2E-BF42-4520-A222-29E099830D66}|Ex-03-retangulo\\Ex-03-retangulo.csproj|solutionrelative:ex-03-retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-03-retangulo\\Ex-03-retangulo\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Ex-03-retangulo\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-03-retangulo\\Ex-03-retangulo\\Retangulo.cs",
+              "RelativeToolTip": "Ex-03-retangulo\\Retangulo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:45:22.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-03-retangulo\\Ex-03-retangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-03-retangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-03-retangulo\\Ex-03-retangulo\\Program.cs",
+              "RelativeToolTip": "Ex-03-retangulo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:35:40.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
