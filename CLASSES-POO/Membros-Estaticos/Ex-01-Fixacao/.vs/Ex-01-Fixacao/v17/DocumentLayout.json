@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-01-Fixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E513FD-246E-4DAD-BE2F-CBBD811F1957}|Ex-01-Fixacao\\Ex-01-Fixacao.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\membros-estaticos\\ex-01-fixacao\\ex-01-fixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E513FD-246E-4DAD-BE2F-CBBD811F1957}|Ex-01-Fixacao\\Ex-01-Fixacao.csproj|solutionrelative:ex-01-fixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E513FD-246E-4DAD-BE2F-CBBD811F1957}|Ex-01-Fixacao\\Ex-01-Fixacao.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\membros-estaticos\\ex-01-fixacao\\ex-01-fixacao\\conversordemoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E513FD-246E-4DAD-BE2F-CBBD811F1957}|Ex-01-Fixacao\\Ex-01-Fixacao.csproj|solutionrelative:ex-01-fixacao\\conversordemoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoedas.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-01-Fixacao\\Ex-01-Fixacao\\ConversorDeMoedas.cs",
+              "RelativeDocumentMoniker": "Ex-01-Fixacao\\ConversorDeMoedas.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-01-Fixacao\\Ex-01-Fixacao\\ConversorDeMoedas.cs",
+              "RelativeToolTip": "Ex-01-Fixacao\\ConversorDeMoedas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:13:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-01-Fixacao\\Ex-01-Fixacao\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-01-Fixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-01-Fixacao\\Ex-01-Fixacao\\Program.cs",
+              "RelativeToolTip": "Ex-01-Fixacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:07:32.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

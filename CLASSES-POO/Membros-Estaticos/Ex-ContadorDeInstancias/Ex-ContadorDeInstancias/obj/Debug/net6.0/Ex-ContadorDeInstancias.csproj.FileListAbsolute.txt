@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\bin\Debug\net6.0\Ex-ContadorDeInstancias.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\bin\Debug\net6.0\Ex-ContadorDeInstancias.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\bin\Debug\net6.0\Ex-ContadorDeInstancias.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\bin\Debug\net6.0\Ex-ContadorDeInstancias.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\bin\Debug\net6.0\Ex-ContadorDeInstancias.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\refint\Ex-ContadorDeInstancias.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\Ex-ContadorDeInstancias.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContadorDeInstancias\Ex-ContadorDeInstancias\obj\Debug\net6.0\ref\Ex-ContadorDeInstancias.dll

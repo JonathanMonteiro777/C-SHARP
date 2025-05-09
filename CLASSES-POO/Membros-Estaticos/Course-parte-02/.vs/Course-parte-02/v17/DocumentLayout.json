@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Course-parte-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9E73D-797C-4108-B584-5E43F4EAA898}|Course-parte-02\\Course-parte-02.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\membros-estaticos\\course-parte-02\\course-parte-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9E73D-797C-4108-B584-5E43F4EAA898}|Course-parte-02\\Course-parte-02.csproj|solutionrelative:course-parte-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F9E73D-797C-4108-B584-5E43F4EAA898}|Course-parte-02\\Course-parte-02.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\membros-estaticos\\course-parte-02\\course-parte-02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F9E73D-797C-4108-B584-5E43F4EAA898}|Course-parte-02\\Course-parte-02.csproj|solutionrelative:course-parte-02\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Course-parte-02\\Course-parte-02\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Course-parte-02\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Course-parte-02\\Course-parte-02\\Calculadora.cs",
+              "RelativeToolTip": "Course-parte-02\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:46:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Course-parte-02\\Course-parte-02\\Program.cs",
+              "RelativeDocumentMoniker": "Course-parte-02\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Course-parte-02\\Course-parte-02\\Program.cs",
+              "RelativeToolTip": "Course-parte-02\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:45:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

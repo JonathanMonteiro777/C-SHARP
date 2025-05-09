@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Course-parte-02/1.0.0": {
+        "runtime": {
+          "Course-parte-02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course-parte-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

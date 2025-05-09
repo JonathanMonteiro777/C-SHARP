@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\bin\Debug\net6.0\Ex-Fixacao-02.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\bin\Debug\net6.0\Ex-Fixacao-02.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\bin\Debug\net6.0\Ex-Fixacao-02.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\bin\Debug\net6.0\Ex-Fixacao-02.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\bin\Debug\net6.0\Ex-Fixacao-02.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\refint\Ex-Fixacao-02.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\Ex-Fixacao-02.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-Fixacao-02\Ex-Fixacao-02\obj\Debug\net6.0\ref\Ex-Fixacao-02.dll
