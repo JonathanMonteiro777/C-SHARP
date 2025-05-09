@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\bin\Debug\net6.0\Ex-05-alunoAprovado.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\bin\Debug\net6.0\Ex-05-alunoAprovado.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\bin\Debug\net6.0\Ex-05-alunoAprovado.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\bin\Debug\net6.0\Ex-05-alunoAprovado.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\bin\Debug\net6.0\Ex-05-alunoAprovado.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\refint\Ex-05-alunoAprovado.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\Ex-05-alunoAprovado.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-05-alunoAprovado\Ex-05-alunoAprovado\obj\Debug\net6.0\ref\Ex-05-alunoAprovado.dll

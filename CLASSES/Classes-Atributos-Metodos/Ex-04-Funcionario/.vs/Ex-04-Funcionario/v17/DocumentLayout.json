@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-04-Funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4BFD4D-3526-4375-8246-B428FED1FFBB}|Ex-04-Funcionario\\Ex-04-Funcionario.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-04-funcionario\\ex-04-funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4BFD4D-3526-4375-8246-B428FED1FFBB}|Ex-04-Funcionario\\Ex-04-Funcionario.csproj|solutionrelative:ex-04-funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4BFD4D-3526-4375-8246-B428FED1FFBB}|Ex-04-Funcionario\\Ex-04-Funcionario.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-04-funcionario\\ex-04-funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4BFD4D-3526-4375-8246-B428FED1FFBB}|Ex-04-Funcionario\\Ex-04-Funcionario.csproj|solutionrelative:ex-04-funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-04-Funcionario\\Ex-04-Funcionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Ex-04-Funcionario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-04-Funcionario\\Ex-04-Funcionario\\Funcionario.cs",
+              "RelativeToolTip": "Ex-04-Funcionario\\Funcionario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:39:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-04-Funcionario\\Ex-04-Funcionario\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-04-Funcionario\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-04-Funcionario\\Ex-04-Funcionario\\Program.cs",
+              "RelativeToolTip": "Ex-04-Funcionario\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:37:04.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

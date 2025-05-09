@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\bin\Debug\net6.0\Ex-04-Funcionario.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\bin\Debug\net6.0\Ex-04-Funcionario.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\bin\Debug\net6.0\Ex-04-Funcionario.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\bin\Debug\net6.0\Ex-04-Funcionario.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\bin\Debug\net6.0\Ex-04-Funcionario.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\refint\Ex-04-Funcionario.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\Ex-04-Funcionario.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Ex-04-Funcionario\Ex-04-Funcionario\obj\Debug\net6.0\ref\Ex-04-Funcionario.dll

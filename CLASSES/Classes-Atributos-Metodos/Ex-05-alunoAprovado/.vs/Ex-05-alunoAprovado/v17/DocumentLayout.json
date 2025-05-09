@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-05-alunoAprovado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4751ADA6-B3F5-4647-9D25-541E29591D1C}|Ex-05-alunoAprovado\\Ex-05-alunoAprovado.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-05-alunoaprovado\\ex-05-alunoaprovado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4751ADA6-B3F5-4647-9D25-541E29591D1C}|Ex-05-alunoAprovado\\Ex-05-alunoAprovado.csproj|solutionrelative:ex-05-alunoaprovado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4751ADA6-B3F5-4647-9D25-541E29591D1C}|Ex-05-alunoAprovado\\Ex-05-alunoAprovado.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\ex-05-alunoaprovado\\ex-05-alunoaprovado\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4751ADA6-B3F5-4647-9D25-541E29591D1C}|Ex-05-alunoAprovado\\Ex-05-alunoAprovado.csproj|solutionrelative:ex-05-alunoaprovado\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-05-alunoAprovado\\Ex-05-alunoAprovado\\Aluno.cs",
+              "RelativeDocumentMoniker": "Ex-05-alunoAprovado\\Aluno.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-05-alunoAprovado\\Ex-05-alunoAprovado\\Aluno.cs",
+              "RelativeToolTip": "Ex-05-alunoAprovado\\Aluno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:05:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-05-alunoAprovado\\Ex-05-alunoAprovado\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-05-alunoAprovado\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Ex-05-alunoAprovado\\Ex-05-alunoAprovado\\Program.cs",
+              "RelativeToolTip": "Ex-05-alunoAprovado\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:03:34.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
