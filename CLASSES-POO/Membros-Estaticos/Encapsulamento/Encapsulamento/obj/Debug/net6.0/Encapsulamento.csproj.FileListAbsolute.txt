@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Encapsulamento\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll
