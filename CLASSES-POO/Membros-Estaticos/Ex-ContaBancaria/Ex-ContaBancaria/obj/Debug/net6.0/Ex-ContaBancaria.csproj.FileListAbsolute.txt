@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.AssemblyInfo.cs
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.sourcelink.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\bin\Debug\net6.0\Ex-ContaBancaria.exe
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\bin\Debug\net6.0\Ex-ContaBancaria.deps.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\bin\Debug\net6.0\Ex-ContaBancaria.runtimeconfig.json
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\bin\Debug\net6.0\Ex-ContaBancaria.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\bin\Debug\net6.0\Ex-ContaBancaria.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\refint\Ex-ContaBancaria.dll
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.pdb
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\Ex-ContaBancaria.genruntimeconfig.cache
+C:\Users\jonat\Documents\JONATHAN\Projetos\UDEMY-CURSOS\C-SHARP\C-SHARP\CLASSES-POO\Membros-Estaticos\Ex-ContaBancaria\Ex-ContaBancaria\obj\Debug\net6.0\ref\Ex-ContaBancaria.dll

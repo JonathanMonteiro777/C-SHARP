@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-ContaBancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7E9373-B68A-4038-8C67-D5B931A709B6}|Ex-ContaBancaria\\Ex-ContaBancaria.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\membros-estaticos\\ex-contabancaria\\ex-contabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7E9373-B68A-4038-8C67-D5B931A709B6}|Ex-ContaBancaria\\Ex-ContaBancaria.csproj|solutionrelative:ex-contabancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7E9373-B68A-4038-8C67-D5B931A709B6}|Ex-ContaBancaria\\Ex-ContaBancaria.csproj|c:\\users\\jonat\\documents\\jonathan\\projetos\\udemy-cursos\\c-sharp\\c-sharp\\classes-poo\\membros-estaticos\\ex-contabancaria\\ex-contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7E9373-B68A-4038-8C67-D5B931A709B6}|Ex-ContaBancaria\\Ex-ContaBancaria.csproj|solutionrelative:ex-contabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-ContaBancaria\\Ex-ContaBancaria\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Ex-ContaBancaria\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-ContaBancaria\\Ex-ContaBancaria\\ContaBancaria.cs",
+              "RelativeToolTip": "Ex-ContaBancaria\\ContaBancaria.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:02:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-ContaBancaria\\Ex-ContaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "Ex-ContaBancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Documents\\JONATHAN\\Projetos\\UDEMY-CURSOS\\C-SHARP\\C-SHARP\\CLASSES-POO\\Membros-Estaticos\\Ex-ContaBancaria\\Ex-ContaBancaria\\Program.cs",
+              "RelativeToolTip": "Ex-ContaBancaria\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:59:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
